@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
+  - enabled: 1
+    path: Assets/01.Scenes/4/EscapeMaze.unity
+    guid: 55cd36a474f59494d9fea6fd8e230c06
   m_configObjects: {}
